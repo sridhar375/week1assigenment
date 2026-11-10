@@ -1,0 +1,2 @@
+# Non-secret settings. Secrets live in .env (never committed).
+users_url = "https://jsonplaceholder.typicode.com/users"

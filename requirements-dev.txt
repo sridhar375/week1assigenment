@@ -1,0 +1,6 @@
+-r requirements.txt
+httpx
+pytest-cov
+black
+ruff
+pre-commit
